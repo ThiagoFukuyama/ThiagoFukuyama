@@ -1,6 +1,6 @@
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=transparent" alt="Thiago's Github stats" /> &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFukuyama&theme=transparent&layout=compact" alt="Thiago's most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=apprentice" alt="Thiago's Github stats" /> &nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFukuyama&layout=compact&theme=apprentice" alt="Thiago's most used languages" />
 
 <div style="display: inline-block">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
