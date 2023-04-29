@@ -1,7 +1,8 @@
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=apprentice)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=apprentice" alt="Thiago's Github stats" /> |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFukuyama&theme=apprentice&layout=compact" alt="Thiago's most used languages" />
 
-![Thiago's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFukuyama&theme=apprentice&layout=compact)
+<br />
 
 <div style="display: inline-block">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
