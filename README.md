@@ -8,7 +8,7 @@
 
 
 <div style="display: inline-block"><br>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
         <img alt="HTML5" title="HTML5" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026485-32b6281c-c18c-4225-b534-c1fbcb6b471a.svg" />
     </a>    
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
