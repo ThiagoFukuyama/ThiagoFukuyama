@@ -1,5 +1,7 @@
 
-Opa! Sinta-se à vontade para explorar ou contribuir para o que encontrar aqui 💥
+# Opa!
+
+Sinta-se à vontade para explorar ou contribuir para o que encontrar aqui 💥
 
 <a href="https://github.com/ThiagoFukuyama">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=apprentice" alt="Thiago's Github stats" />
