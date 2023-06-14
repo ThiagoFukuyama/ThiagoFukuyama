@@ -4,7 +4,7 @@
 Sinta-se à vontade para explorar ou contribuir para o que encontrar aqui 💥
 
 <a href="https://github.com/ThiagoFukuyama">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=apprentice" alt="Thiago's Github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=apprentice" alt="Thiago's Github stats" />
 </a> &nbsp;
 <a href="https://github.com/ThiagoFukuyama">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFukuyama&layout=compact&theme=apprentice" alt="Thiago's most used languages" />
