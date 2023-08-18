@@ -1,13 +1,15 @@
 
-<a href="https://github.com/ThiagoFukuyama">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=apprentice" alt="Thiago's Github stats" />
-</a> &nbsp;
-<a href="https://github.com/ThiagoFukuyama">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFukuyama&layout=compact&theme=apprentice" alt="Thiago's most used languages" />
-</a>
+<div align="center">
+    <a href="https://github.com/ThiagoFukuyama">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=apprentice" alt="Thiago's Github stats" />
+    </a> &nbsp;
+    <a href="https://github.com/ThiagoFukuyama">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFukuyama&layout=compact&theme=apprentice" alt="Thiago's most used languages" />
+    </a>
+</div>
 
 
-<div style="display: inline-block"><br>
+<div style="display: inline-block" align="center"><br>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
         <img alt="HTML5" title="HTML5" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026485-32b6281c-c18c-4225-b534-c1fbcb6b471a.svg" />
     </a>    
