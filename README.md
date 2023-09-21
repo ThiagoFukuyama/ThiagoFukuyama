@@ -22,6 +22,9 @@
     <a href="https://sass-lang.com/">
         <img alt="SASS" title="SASS" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026475-62939e97-2363-4431-9752-dd4c06f1561a.svg" />
     </a>    
+    <a href="https://www.typescriptlang.org/pt/">
+        <img alt="TypeScript" title="TypeScript" width="40" height="30" src="https://github.com/ThiagoFukuyama/ThiagoFukuyama/assets/99801948/575eabe1-b368-4ac2-b066-61d3c88dd9fe" />
+    </a>
     <a href="https://react.dev/">
         <img alt="React" title="React" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026472-76324bbd-9699-441a-9435-c0752c1201c8.svg" />
     </a>    
