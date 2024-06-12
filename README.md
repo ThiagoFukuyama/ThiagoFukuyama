@@ -1,4 +1,3 @@
-
 <div align="center">
     <a href="https://github.com/ThiagoFukuyama">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=apprentice" alt="Thiago's Github stats" />
@@ -27,6 +26,9 @@
     </a>
     <a href="https://react.dev/">
         <img alt="React" title="React" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026472-76324bbd-9699-441a-9435-c0752c1201c8.svg" />
+    </a>    
+    <a href="https://nodejs.org/en/">
+        <img alt="NodeJS" title="NodeJS" width="28" height="28" src="https://github.com/ThiagoFukuyama/ThiagoFukuyama/assets/99801948/51627201-089b-48da-b284-893bd93eaa08" />     
     </a>    
     <a href="https://www.php.net/">
         <img alt="PHP" title="PHP" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026467-676693fb-40ae-4ab1-b661-c6e6badc55b6.svg" />
