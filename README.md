@@ -1,3 +1,8 @@
+
+<img width="40" align="right" src="https://github.com/user-attachments/assets/1107d5a4-791a-4d6a-b1b5-f14d4e87ee2c" alt="Thiago's most used languages" />
+<img width="40" align="left" src="https://github.com/user-attachments/assets/1107d5a4-791a-4d6a-b1b5-f14d4e87ee2c" alt="Thiago's most used languages" />
+<br><br>
+
 <div align="center">
     <a href="https://github.com/ThiagoFukuyama">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=apprentice" alt="Thiago's Github stats" />
