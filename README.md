@@ -1,8 +1,4 @@
 <div align="center">
-    <img align="center" src="https://github.com/user-attachments/assets/d7133eac-283f-4e54-91be-c49b114ad91b" alt="Thiago's Github stats" />
-</div><br>
-
-<div align="center">
     <a href="https://github.com/ThiagoFukuyama">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=apprentice" alt="Thiago's Github stats" />
     </a> &nbsp;
@@ -48,4 +44,8 @@
     <a href="https://code.visualstudio.com/">
         <img alt="Visual Studio Code" title="Visual Studio Code" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026487-9982c239-8af7-46b9-8b7b-d4aa647acad3.svg" />
     </a>
+</div><br>
+
+<div align="center">
+    <img align="center" src="https://github.com/user-attachments/assets/d7133eac-283f-4e54-91be-c49b114ad91b" alt="Thiago's Github stats" />
 </div>
