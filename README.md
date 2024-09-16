@@ -1,4 +1,8 @@
 <div align="center">
+    <img align="center" src="https://github.com/user-attachments/assets/d7133eac-283f-4e54-91be-c49b114ad91b" alt="Thiago's Github stats" />
+</div><br>
+
+<div align="center">
     <a href="https://github.com/ThiagoFukuyama">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoFukuyama&hide=issues&count_private=true&show_icons=true&theme=apprentice" alt="Thiago's Github stats" />
     </a> &nbsp;
@@ -7,20 +11,10 @@
     </a>
 </div>
 
-
 <div style="display: inline-block" align="center"><br>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-        <img alt="HTML5" title="HTML5" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026485-32b6281c-c18c-4225-b534-c1fbcb6b471a.svg" />
-    </a>    
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-        <img alt="CSS3" title="CSS3" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026482-d93e1c61-68da-4ed6-b5fe-3e083679a3d9.svg" />
-    </a>    
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
         <img alt="JavaScript" title="JavaScript" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026481-b1bc4575-e02f-48d0-b24a-dbc5ad7c1b1c.svg" />
     </a>
-    <a href="https://sass-lang.com/">
-        <img alt="SASS" title="SASS" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026475-62939e97-2363-4431-9752-dd4c06f1561a.svg" />
-    </a>    
     <a href="https://www.typescriptlang.org/pt/">
         <img alt="TypeScript" title="TypeScript" width="40" height="30" src="https://github.com/ThiagoFukuyama/ThiagoFukuyama/assets/99801948/575eabe1-b368-4ac2-b066-61d3c88dd9fe" />
     </a>
@@ -29,6 +23,15 @@
     </a>    
     <a href="https://nodejs.org/en/">
         <img alt="NodeJS" title="NodeJS" width="28" height="28" src="https://github.com/ThiagoFukuyama/ThiagoFukuyama/assets/99801948/51627201-089b-48da-b284-893bd93eaa08" />     
+    </a>    
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+        <img alt="HTML5" title="HTML5" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026485-32b6281c-c18c-4225-b534-c1fbcb6b471a.svg" />
+    </a>    
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+        <img alt="CSS3" title="CSS3" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026482-d93e1c61-68da-4ed6-b5fe-3e083679a3d9.svg" />
+    </a>    
+    <a href="https://sass-lang.com/">
+        <img alt="SASS" title="SASS" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026475-62939e97-2363-4431-9752-dd4c06f1561a.svg" />
     </a>    
     <a href="https://www.php.net/">
         <img alt="PHP" title="PHP" width="40" height="30" src="https://user-images.githubusercontent.com/99801948/236026467-676693fb-40ae-4ab1-b661-c6e6badc55b6.svg" />
